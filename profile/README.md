@@ -34,6 +34,6 @@ The **A**I **D**ata **P**latform is our all-in-one solution for data-centric AI.
 
 Whether you're building an enterprise-grade knowledge base, developing sophisticated AI agents, or fine-tuning your own custom language models, OriginHubAI provides the foundational infrastructure you need to succeed.
 
-➡️ **[Explore the ADP Platform Documentation](https://adp.originhub.tech)** <br>
+➡️ **[Explore the ADP Platform](https://adp.originhub.tech)** <br>
 ➡️ **[Star MyScaleDB on GitHub](https://github.com/OriginHubAI/MyScaleDB)** <br>
 ➡️ **[Star DataFlow on GitHub](https://github.com/OpenDCAI/DataFlow)** <br>
